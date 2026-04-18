@@ -1,4 +1,4 @@
-Readme.md
+README.md
 ==
 # 1. Set your JavaFX SDK path
 set PATH_TO_FX=C:\Users\account\Documents\javafx-sdk-25.0.2\lib
